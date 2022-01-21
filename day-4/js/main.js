@@ -1,0 +1,1 @@
+const person = prompt("Please enter your name");
